@@ -10,4 +10,3 @@ echo "Los nombres y apellidos del empleado son: " . $NomApellidos . "<br>";
 echo "El cargo del empleado es: " . $Cargo . "<br>";
 echo "El salario del empleado es: " . $Salario;
 ?>
-```
